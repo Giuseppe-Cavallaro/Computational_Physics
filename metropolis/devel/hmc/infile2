@@ -1,0 +1,11 @@
+kappa      0.18169
+lambda     1.3282
+L          4
+min_nstep  5
+max_nstep  50
+d_nstep    5
+tlength    1
+ntherm     5000
+ntraj      100000
+naccu      1000
+seed       421 

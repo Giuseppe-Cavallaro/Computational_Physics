@@ -1,0 +1,12 @@
+lambda     1.145
+min_kappa  0.18000
+max_kappa  0.19005
+dkappa     0.00125
+min_L      4
+max_L      16
+dL         2
+tlength    1
+ntherm     5000
+ntraj      100000
+naccu      1000
+seed       444
